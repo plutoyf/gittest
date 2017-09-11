@@ -1,1 +1,2 @@
-init readme file
+some text
+new text
